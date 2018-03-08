@@ -1,0 +1,8 @@
+TAP version 13
+not ok 1 - Warning: Warning
+not ok 2 - Warning: Warning
+ok 3 - MasterCard\Api\Stp\ProviderTest::test_get_provider
+ok 4 - MasterCard\Api\Stp\ProvidersTest::test_get_providers
+not ok 5 - Warning: Warning
+ok 6 - MasterCard\Api\Stp\SuppliersTest::test_create_supplier
+1..6

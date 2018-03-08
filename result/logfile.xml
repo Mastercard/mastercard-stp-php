@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="6" assertions="16" failures="0" errors="0" time="2.521280">
+    <testsuite name="MasterCard\Api\Stp\PaymentTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-STP-Php/workspace/generated-code/stp/php/sdk/Test/MasterCard/Api/Stp/PaymentTest.php" tests="1" assertions="0" failures="0" errors="0" time="0.001133">
+      <testcase name="Warning" assertions="0" time="0.001133"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\Stp\PaymentsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-STP-Php/workspace/generated-code/stp/php/sdk/Test/MasterCard/Api/Stp/PaymentsTest.php" tests="1" assertions="0" failures="0" errors="0" time="0.000061">
+      <testcase name="Warning" assertions="0" time="0.000061"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\Stp\ProviderTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-STP-Php/workspace/generated-code/stp/php/sdk/Test/MasterCard/Api/Stp/ProviderTest.php" tests="1" assertions="5" failures="0" errors="0" time="0.880982">
+      <testcase name="test_get_provider" class="MasterCard\Api\Stp\ProviderTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-STP-Php/workspace/generated-code/stp/php/sdk/Test/MasterCard/Api/Stp/ProviderTest.php" line="51" assertions="5" time="0.880982"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\Stp\ProvidersTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-STP-Php/workspace/generated-code/stp/php/sdk/Test/MasterCard/Api/Stp/ProvidersTest.php" tests="1" assertions="5" failures="0" errors="0" time="0.971523">
+      <testcase name="test_get_providers" class="MasterCard\Api\Stp\ProvidersTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-STP-Php/workspace/generated-code/stp/php/sdk/Test/MasterCard/Api/Stp/ProvidersTest.php" line="51" assertions="5" time="0.971523"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\Stp\SupplierTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-STP-Php/workspace/generated-code/stp/php/sdk/Test/MasterCard/Api/Stp/SupplierTest.php" tests="1" assertions="0" failures="0" errors="0" time="0.000114">
+      <testcase name="Warning" assertions="0" time="0.000114"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\Stp\SuppliersTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-STP-Php/workspace/generated-code/stp/php/sdk/Test/MasterCard/Api/Stp/SuppliersTest.php" tests="1" assertions="6" failures="0" errors="0" time="0.667467">
+      <testcase name="test_create_supplier" class="MasterCard\Api\Stp\SuppliersTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-STP-Php/workspace/generated-code/stp/php/sdk/Test/MasterCard/Api/Stp/SuppliersTest.php" line="51" assertions="6" time="0.667467"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
